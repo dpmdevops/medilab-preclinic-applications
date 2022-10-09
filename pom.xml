@@ -71,5 +71,11 @@
 			</plugin>
 		</plugins>
 	</build>
-
+    <distributionManagement>
+  	<repository>
+  	  <id>central</id>
+  	  <name>ip-172-31-95-57.ec2.internal-release</name>
+  	  <url>http://3.109.47.99:8082/artifactory/libs-release/</url>
+	</repository>
+     </distributionManagement>
 </project>
