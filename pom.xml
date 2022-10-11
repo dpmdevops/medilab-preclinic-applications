@@ -75,7 +75,7 @@
    <repository>
         <id>central</id>
         <name>ip-172-31-35-66.ap-south-1.compute.internal-snapshot</name>
-        <url>http://15.206.122.61:8082/artifactory/libs-snapshot</url>
+        <url>http://15.206.122.61:8081/artifactory/libs-snapshot</url>
     </repository>
      </distributionManagement>
 
